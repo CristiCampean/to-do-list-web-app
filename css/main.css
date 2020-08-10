@@ -1,3 +1,7 @@
+
+body{
+    background-color: burlywood;
+}
 #tasks {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
@@ -11,7 +15,7 @@
 
 #tasks tr:nth-child(even){background-color: #f2f2f2;}
 
-#tasks tr:hover {background-color: #ddd;}
+#tasks tr:hover {background-color: #dddddd;}
 
 #tasks th {
     padding-top: 12px;
@@ -19,4 +23,7 @@
     text-align: left;
     background-color: #4CAF50;
     color: white;
+}
+#tasks{background-color:olivedrab;
+
 }
